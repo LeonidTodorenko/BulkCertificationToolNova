@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkCertificationToolNova", "BulkCertificationToolNova\BulkCertificationToolNova.csproj", "{952C4414-EF9F-45A0-BA96-8D1ACB716507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satellite", "Satellite\Satellite.csproj", "{D94F7CC9-913E-4255-B550-506C78A16426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952C4414-EF9F-45A0-BA96-8D1ACB716507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952C4414-EF9F-45A0-BA96-8D1ACB716507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952C4414-EF9F-45A0-BA96-8D1ACB716507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952C4414-EF9F-45A0-BA96-8D1ACB716507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94F7CC9-913E-4255-B550-506C78A16426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94F7CC9-913E-4255-B550-506C78A16426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94F7CC9-913E-4255-B550-506C78A16426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94F7CC9-913E-4255-B550-506C78A16426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
